@@ -1,0 +1,19 @@
+.demoForm {
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	background-color:powderblue;
+	
+	
+}
+.carou{
+	height: 50em;
+	width: 50em;
+}
+
+.heading{
+	text-color: brown;
+}
+.count{
+	font-size: 100px;
+}
